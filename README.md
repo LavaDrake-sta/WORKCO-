@@ -1,24 +1,59 @@
 # WORKCO-
-👋 Welcome to My GitHub!
+🚀 Software Engineering Student · Building Real Systems, Not Exercises
 
-Hi there! I'm Adi Stamker, a Software Engineering student and a passionate developer.
-On this GitHub profile, you’ll find a collection of projects I’ve built throughout my studies, covering a wide range of topics, including:
+Hi, I'm Adi Stamker, a Software Engineering student with a strong focus on systems programming, backend engineering, compilers, and real-time architectures.
+My GitHub showcases production-style projects I've built throughout my studies — fully designed, implemented, documented, and written with engineering discipline.
 
-Web Development – Django, React, ASP.NET MVC, SQL Server
+🔧 Core Engineering Work
+🖥 Operating Systems (C)
 
-IoT & Embedded Systems – MQTT, Node-RED, QuestDB, dashboards, sensor simulation
+Implemented a fully functional Linux-like shell
+Supports: pipes, redirection, background jobs, permissions, grep, chmod, nano, cat, cp, and more.
 
-Operating Systems – custom Linux shell (C), permissions, pipes, scheduling algorithms, memory management
+🧩 Compiler Construction (Java + Lex/Yacc)
 
-Cyber & Blockchain – Solidity smart contracts, Python automation, secure system flow design
+Built a complete Scanner (Lex) + Parser (Yacc)
 
-Compiler Construction – full Scanner (Lex) + Parser (Yacc) implementation, AST builder, semantic rules
+Designed a custom AST, semantic rules, tree builder, and error-handling logic.
 
-Java Projects – OOP, multi-threading, design patterns, full class architecture development
+☕ Advanced Java Systems
 
-C# & Desktop Apps – game development, UI design, prototypes, multithreading
+Multi-class architectures with OOP principles, interfaces, design patterns
 
-Data & ML Basics – data parsing, small ML experiments in Python
+Implemented multithreading, synchronization, event-driven logic, and system simulations.
 
-Feel free to explore the repositories, check out my code, and follow along my development journey.
-I’m constantly learning, building, experimenting — and always excited for the next challenge 🚀
+🌐 Full-Stack & Backend Development
+
+Django · React · ASP.NET MVC · SQL Server
+
+API-driven systems, authentication flows, ORM work, and real application logic.
+
+📡 IoT & Real-Time Data Engineering
+
+End-to-end pipeline: Sensors → MQTT → Node-RED → QuestDB
+
+Developed dashboards, automation flows, real-time simulations, and monitoring UI.
+
+🔗 Cyber & Blockchain
+
+Smart contracts in Solidity, blockchain architecture design, and secure flows.
+
+🎨 Frontend Engineering (HTML/CSS/JS)
+
+Built a complete web project from scratch using pure HTML, CSS, and JavaScript
+
+Focus on responsive design, UI/UX principles, clean structure, and interactive components.
+
+🎯 Engineering Philosophy
+
+I focus on:
+
+Writing clean, modular, and maintainable code
+
+Understanding system internals, not just using frameworks
+
+Designing architectures with clarity and purpose
+
+Building projects that reflect real engineering, not classroom exercises
+
+Browse my repositories and you’ll find detailed documentation, thoughtful design, and real implementations of complex concepts.
