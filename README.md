@@ -2,19 +2,23 @@
 👋 Welcome to My GitHub!
 
 Hi there! I'm Adi Stamker, a passionate software developer and computer science student.
-On this GitHub profile, you’ll find a collection of projects I’ve built throughout my studies, showcasing my work across various fields including:
+On this GitHub profile, you’ll find a collection of projects I’ve built throughout my studies, covering a wide range of topics, including:
 
-Web Development (Django, React, ASP.NET MVC, SQL)
+Web Development – Django, React, ASP.NET MVC, SQL Server
 
-IoT & Embedded Systems (MQTT, Node-RED, QuestDB, sensors simulation)
+IoT & Embedded Systems – MQTT, Node-RED, QuestDB, dashboarding, sensor simulation
 
-Operating Systems (Linux shell implementation, scheduling algorithms, memory management)
+Operating Systems – custom Linux shell (C), permissions, pipes, scheduling, memory management
 
-Cyber & Blockchain (Solidity smart contracts, encryption, Python automation)
+Cyber & Blockchain – Solidity smart contracts, Python automation, secure system design
 
-Data Processing & Machine Learning basics
+Compiler Construction – full Scanner (Lex) + Parser (Yacc) implementation, AST builder, semantic checks
 
-Desktop applications (C#, Java, multi-threading, prototypes & patterns)
+Java Projects – object-oriented programming, multi-threading, design patterns, class design and inheritance projects
 
-Feel free to explore the repositories, check out my code, and follow along with my learning journey.
-I’m always improving, building, and experimenting — and I’d love for you to join the ride 🚀
+C# & Desktop Apps – game development, UI, prototypes, multithreading
+
+Data & ML Basics – data parsing, small Python ML experiments
+
+Feel free to explore the repositories, check out my code, and follow along my learning journey.
+I’m constantly improving, building, experimenting — and always excited for the next challenge 🚀
